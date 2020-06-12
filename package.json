@@ -2,7 +2,7 @@
   "name": "mern-auth",
   "version": "1.0.0",
   "description": "Authentication with MERN stack",
-  "main": "index.js",
+  "main": "server.js",
   "scripts": {
     "start": "node server.js",
     "server": "nodemon server.js",
